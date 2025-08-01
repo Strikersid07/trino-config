@@ -1,0 +1,14 @@
+[0m11:30:16.330528 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f5cb85d8f40>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f5cb790b610>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f5cb790b5b0>]}
+
+
+============================== 11:30:16.337066 | 7af6a944-22dd-4a8a-a4b4-184e80051100 ==============================
+[0m11:30:16.337066 [info ] [MainThread]: Running with dbt=1.6.18
+[0m11:30:16.338720 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': '/home/hpstrikersid_0711/.dbt', 'debug': 'False', 'fail_fast': 'False', 'log_path': 'logs', 'version_check': 'True', 'warn_error': 'None', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'log_format': 'default', 'static_parser': 'True', 'introspect': 'True', 'invocation_command': 'dbt clean', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'send_anonymous_usage_stats': 'True'}
+[0m11:30:16.340252 [error] [MainThread]: Encountered an error:
+Runtime Error
+  No dbt_project.yml found at expected path /home/hpstrikersid_0711/trino-server-421/dbt_project.yml
+  Verify that each entry within packages.yml (and their transitive dependencies) contains a file named dbt_project.yml
+  
+[0m11:30:16.341607 [debug] [MainThread]: Command `dbt clean` failed at 11:30:16.341363 after 0.05 seconds
+[0m11:30:16.342603 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f5cb85d8f40>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f5cb790bd00>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f5cb790b670>]}
+[0m11:30:16.343412 [debug] [MainThread]: Flushing usage events

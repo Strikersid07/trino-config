@@ -1,0 +1,290 @@
+ERROR: Trino requires Java 17+ (found 11.0.27)
+# WARNING: Unable to get Instrumentation. Dynamic Attach failed. You may add this JAR as -javaagent manually, or supply -Djdk.attach.allowAttachSelf
+Jun 16, 2025 5:37:14 AM io.airlift.log.Logger info
+INFO: Java version: 17.0.15
+2025-06-16T05:37:14.812Z	INFO	main	io.airlift.log.Logging	Logging to stderr
+2025-06-16T05:37:14.815Z	INFO	main	Bootstrap	Loading configuration
+2025-06-16T05:37:14.961Z	INFO	main	org.hibernate.validator.internal.util.Version	HV000001: Hibernate Validator 8.0.0.Final
+2025-06-16T05:37:15.221Z	INFO	main	Bootstrap	Initializing logging
+2025-06-16T05:37:15.291Z	INFO	main	io.airlift.log.Logging	Logging to /home/hpstrikersid_0711/trino-server-421/data/var/log/server.log
+2025-06-16T05:37:15.330Z	INFO	main	io.airlift.log.Logging	Disabling stderr output
+# WARNING: Unable to get Instrumentation. Dynamic Attach failed. You may add this JAR as -javaagent manually, or supply -Djdk.attach.allowAttachSelf
+Jun 16, 2025 5:58:30 AM io.airlift.log.Logger info
+INFO: Java version: 17.0.15
+2025-06-16T05:58:30.343Z	INFO	main	io.airlift.log.Logging	Logging to stderr
+2025-06-16T05:58:30.343Z	INFO	main	Bootstrap	Loading configuration
+2025-06-16T05:58:30.492Z	INFO	main	org.hibernate.validator.internal.util.Version	HV000001: Hibernate Validator 8.0.0.Final
+2025-06-16T05:58:30.752Z	INFO	main	Bootstrap	Initializing logging
+2025-06-16T05:58:30.822Z	INFO	main	io.airlift.log.Logging	Logging to /home/hpstrikersid_0711/trino-server-421/data/var/log/server.log
+2025-06-16T05:58:30.862Z	INFO	main	io.airlift.log.Logging	Disabling stderr output
+# WARNING: Unable to get Instrumentation. Dynamic Attach failed. You may add this JAR as -javaagent manually, or supply -Djdk.attach.allowAttachSelf
+Jun 16, 2025 7:05:24 AM io.airlift.log.Logger info
+INFO: Java version: 17.0.15
+2025-06-16T07:05:24.625Z	INFO	main	io.airlift.log.Logging	Logging to stderr
+2025-06-16T07:05:24.626Z	INFO	main	Bootstrap	Loading configuration
+2025-06-16T07:05:24.834Z	INFO	main	org.hibernate.validator.internal.util.Version	HV000001: Hibernate Validator 8.0.0.Final
+2025-06-16T07:05:25.184Z	INFO	main	Bootstrap	Initializing logging
+2025-06-16T07:05:25.282Z	INFO	main	io.airlift.log.Logging	Logging to /home/hpstrikersid_0711/trino-server-421/data/var/log/server.log
+2025-06-16T07:05:25.342Z	INFO	main	io.airlift.log.Logging	Disabling stderr output
+# WARNING: Unable to get Instrumentation. Dynamic Attach failed. You may add this JAR as -javaagent manually, or supply -Djdk.attach.allowAttachSelf
+Jun 16, 2025 7:18:13 AM io.airlift.log.Logger info
+INFO: Java version: 17.0.15
+2025-06-16T07:18:13.150Z	INFO	main	io.airlift.log.Logging	Logging to stderr
+2025-06-16T07:18:13.151Z	INFO	main	Bootstrap	Loading configuration
+2025-06-16T07:18:13.343Z	INFO	main	org.hibernate.validator.internal.util.Version	HV000001: Hibernate Validator 8.0.0.Final
+2025-06-16T07:18:13.708Z	INFO	main	Bootstrap	Initializing logging
+2025-06-16T07:18:13.798Z	INFO	main	io.airlift.log.Logging	Logging to /home/hpstrikersid_0711/trino-server-421/data/var/log/server.log
+2025-06-16T07:18:13.849Z	INFO	main	io.airlift.log.Logging	Disabling stderr output
+# WARNING: Unable to get Instrumentation. Dynamic Attach failed. You may add this JAR as -javaagent manually, or supply -Djdk.attach.allowAttachSelf
+Jun 16, 2025 9:30:26 AM io.airlift.log.Logger info
+INFO: Java version: 17.0.15
+2025-06-16T09:30:26.380Z	INFO	main	io.airlift.log.Logging	Logging to stderr
+2025-06-16T09:30:26.381Z	INFO	main	Bootstrap	Loading configuration
+2025-06-16T09:30:26.519Z	INFO	main	org.hibernate.validator.internal.util.Version	HV000001: Hibernate Validator 8.0.0.Final
+2025-06-16T09:30:26.769Z	INFO	main	Bootstrap	Initializing logging
+2025-06-16T09:30:26.845Z	INFO	main	io.airlift.log.Logging	Logging to /home/hpstrikersid_0711/trino-server-421/data/var/log/server.log
+2025-06-16T09:30:26.888Z	INFO	main	io.airlift.log.Logging	Disabling stderr output
+# WARNING: Unable to get Instrumentation. Dynamic Attach failed. You may add this JAR as -javaagent manually, or supply -Djdk.attach.allowAttachSelf
+Jun 16, 2025 10:05:35 AM io.airlift.log.Logger info
+INFO: Java version: 17.0.15
+2025-06-16T10:05:35.694Z	INFO	main	io.airlift.log.Logging	Logging to stderr
+2025-06-16T10:05:35.694Z	INFO	main	Bootstrap	Loading configuration
+2025-06-16T10:05:35.783Z	INFO	main	org.hibernate.validator.internal.util.Version	HV000001: Hibernate Validator 8.0.0.Final
+2025-06-16T10:05:35.936Z	INFO	main	Bootstrap	Initializing logging
+2025-06-16T10:05:35.976Z	INFO	main	io.airlift.log.Logging	Logging to /home/hpstrikersid_0711/trino-server-421/data/var/log/server.log
+2025-06-16T10:05:36.004Z	INFO	main	io.airlift.log.Logging	Disabling stderr output
+# WARNING: Unable to get Instrumentation. Dynamic Attach failed. You may add this JAR as -javaagent manually, or supply -Djdk.attach.allowAttachSelf
+Jun 16, 2025 10:17:23 AM io.airlift.log.Logger info
+INFO: Java version: 17.0.15
+2025-06-16T10:17:23.281Z	INFO	main	io.airlift.log.Logging	Logging to stderr
+2025-06-16T10:17:23.282Z	INFO	main	Bootstrap	Loading configuration
+2025-06-16T10:17:23.354Z	INFO	main	org.hibernate.validator.internal.util.Version	HV000001: Hibernate Validator 8.0.0.Final
+2025-06-16T10:17:23.480Z	INFO	main	Bootstrap	Initializing logging
+2025-06-16T10:17:23.519Z	INFO	main	io.airlift.log.Logging	Logging to /home/hpstrikersid_0711/trino-server-421/data/var/log/server.log
+2025-06-16T10:17:23.539Z	INFO	main	io.airlift.log.Logging	Disabling stderr output
+ERROR: Trino requires Java 17+ (found 11.0.27)
+# WARNING: Unable to get Instrumentation. Dynamic Attach failed. You may add this JAR as -javaagent manually, or supply -Djdk.attach.allowAttachSelf
+Jun 16, 2025 11:28:49 AM io.airlift.log.Logger info
+INFO: Java version: 17.0.15
+2025-06-16T11:28:49.490Z	INFO	main	io.airlift.log.Logging	Logging to stderr
+2025-06-16T11:28:49.491Z	INFO	main	Bootstrap	Loading configuration
+2025-06-16T11:28:49.636Z	INFO	main	org.hibernate.validator.internal.util.Version	HV000001: Hibernate Validator 8.0.0.Final
+2025-06-16T11:28:49.893Z	INFO	main	Bootstrap	Initializing logging
+2025-06-16T11:28:49.961Z	INFO	main	io.airlift.log.Logging	Logging to /home/hpstrikersid_0711/trino-server-421/data/var/log/server.log
+2025-06-16T11:28:50.001Z	INFO	main	io.airlift.log.Logging	Disabling stderr output
+# WARNING: Unable to get Instrumentation. Dynamic Attach failed. You may add this JAR as -javaagent manually, or supply -Djdk.attach.allowAttachSelf
+Jun 17, 2025 6:23:05 AM io.airlift.log.Logger info
+INFO: Java version: 17.0.15
+2025-06-17T06:23:05.907Z	INFO	main	io.airlift.log.Logging	Logging to stderr
+2025-06-17T06:23:05.908Z	INFO	main	Bootstrap	Loading configuration
+2025-06-17T06:23:05.990Z	INFO	main	org.hibernate.validator.internal.util.Version	HV000001: Hibernate Validator 8.0.0.Final
+2025-06-17T06:23:06.134Z	INFO	main	Bootstrap	Initializing logging
+2025-06-17T06:23:06.172Z	INFO	main	io.airlift.log.Logging	Logging to /home/hpstrikersid_0711/trino-server-421/data/var/log/server.log
+2025-06-17T06:23:06.198Z	INFO	main	io.airlift.log.Logging	Disabling stderr output
+# WARNING: Unable to get Instrumentation. Dynamic Attach failed. You may add this JAR as -javaagent manually, or supply -Djdk.attach.allowAttachSelf
+Jun 17, 2025 9:19:53 AM io.airlift.log.Logger info
+INFO: Java version: 17.0.15
+2025-06-17T09:19:53.414Z	INFO	main	io.airlift.log.Logging	Logging to stderr
+2025-06-17T09:19:53.415Z	INFO	main	Bootstrap	Loading configuration
+2025-06-17T09:19:53.562Z	INFO	main	org.hibernate.validator.internal.util.Version	HV000001: Hibernate Validator 8.0.0.Final
+2025-06-17T09:19:53.814Z	INFO	main	Bootstrap	Initializing logging
+2025-06-17T09:19:53.881Z	INFO	main	io.airlift.log.Logging	Logging to /home/hpstrikersid_0711/trino-server-421/data/var/log/server.log
+2025-06-17T09:19:53.924Z	INFO	main	io.airlift.log.Logging	Disabling stderr output
+# WARNING: Unable to get Instrumentation. Dynamic Attach failed. You may add this JAR as -javaagent manually, or supply -Djdk.attach.allowAttachSelf
+Jun 17, 2025 9:24:30 AM io.airlift.log.Logger info
+INFO: Java version: 17.0.15
+2025-06-17T09:24:30.945Z	INFO	main	io.airlift.log.Logging	Logging to stderr
+2025-06-17T09:24:30.946Z	INFO	main	Bootstrap	Loading configuration
+2025-06-17T09:24:31.059Z	INFO	main	org.hibernate.validator.internal.util.Version	HV000001: Hibernate Validator 8.0.0.Final
+2025-06-17T09:24:31.282Z	INFO	main	Bootstrap	Initializing logging
+2025-06-17T09:24:31.357Z	INFO	main	io.airlift.log.Logging	Logging to /home/hpstrikersid_0711/trino-server-421/data/var/log/server.log
+2025-06-17T09:24:31.387Z	INFO	main	io.airlift.log.Logging	Disabling stderr output
+# WARNING: Unable to get Instrumentation. Dynamic Attach failed. You may add this JAR as -javaagent manually, or supply -Djdk.attach.allowAttachSelf
+Jun 17, 2025 9:27:58 AM io.airlift.log.Logger info
+INFO: Java version: 17.0.15
+2025-06-17T09:27:58.783Z	INFO	main	io.airlift.log.Logging	Logging to stderr
+2025-06-17T09:27:58.784Z	INFO	main	Bootstrap	Loading configuration
+2025-06-17T09:27:58.884Z	INFO	main	org.hibernate.validator.internal.util.Version	HV000001: Hibernate Validator 8.0.0.Final
+2025-06-17T09:27:59.112Z	INFO	main	Bootstrap	Initializing logging
+2025-06-17T09:27:59.179Z	INFO	main	io.airlift.log.Logging	Logging to /home/hpstrikersid_0711/trino-server-421/data/var/log/server.log
+2025-06-17T09:27:59.207Z	INFO	main	io.airlift.log.Logging	Disabling stderr output
+# WARNING: Unable to get Instrumentation. Dynamic Attach failed. You may add this JAR as -javaagent manually, or supply -Djdk.attach.allowAttachSelf
+Jun 18, 2025 6:43:36 AM io.airlift.log.Logger info
+INFO: Java version: 17.0.15
+2025-06-18T06:43:36.612Z	INFO	main	io.airlift.log.Logging	Logging to stderr
+2025-06-18T06:43:36.613Z	INFO	main	Bootstrap	Loading configuration
+2025-06-18T06:43:36.757Z	INFO	main	org.hibernate.validator.internal.util.Version	HV000001: Hibernate Validator 8.0.0.Final
+2025-06-18T06:43:37.008Z	INFO	main	Bootstrap	Initializing logging
+2025-06-18T06:43:37.075Z	INFO	main	io.airlift.log.Logging	Logging to /home/hpstrikersid_0711/trino-server-421/data/var/log/server.log
+2025-06-18T06:43:37.119Z	INFO	main	io.airlift.log.Logging	Disabling stderr output
+# WARNING: Unable to get Instrumentation. Dynamic Attach failed. You may add this JAR as -javaagent manually, or supply -Djdk.attach.allowAttachSelf
+Jun 18, 2025 9:26:54 AM io.airlift.log.Logger info
+INFO: Java version: 17.0.15
+2025-06-18T09:26:55.081Z	INFO	main	io.airlift.log.Logging	Logging to stderr
+2025-06-18T09:26:55.082Z	INFO	main	Bootstrap	Loading configuration
+2025-06-18T09:26:55.290Z	INFO	main	org.hibernate.validator.internal.util.Version	HV000001: Hibernate Validator 8.0.0.Final
+2025-06-18T09:26:55.664Z	INFO	main	Bootstrap	Initializing logging
+2025-06-18T09:26:55.760Z	INFO	main	io.airlift.log.Logging	Logging to /home/hpstrikersid_0711/trino-server-421/data/var/log/server.log
+2025-06-18T09:26:55.826Z	INFO	main	io.airlift.log.Logging	Disabling stderr output
+# WARNING: Unable to get Instrumentation. Dynamic Attach failed. You may add this JAR as -javaagent manually, or supply -Djdk.attach.allowAttachSelf
+Jun 23, 2025 9:00:00 AM io.airlift.log.Logger info
+INFO: Java version: 17.0.15
+2025-06-23T09:00:00.796Z	INFO	main	io.airlift.log.Logging	Logging to stderr
+2025-06-23T09:00:00.796Z	INFO	main	Bootstrap	Loading configuration
+2025-06-23T09:00:00.879Z	INFO	main	org.hibernate.validator.internal.util.Version	HV000001: Hibernate Validator 8.0.0.Final
+2025-06-23T09:00:01.029Z	INFO	main	Bootstrap	Initializing logging
+2025-06-23T09:00:01.069Z	INFO	main	io.airlift.log.Logging	Logging to /home/hpstrikersid_0711/trino-server-421/data/var/log/server.log
+2025-06-23T09:00:01.097Z	INFO	main	io.airlift.log.Logging	Disabling stderr output
+# WARNING: Unable to get Instrumentation. Dynamic Attach failed. You may add this JAR as -javaagent manually, or supply -Djdk.attach.allowAttachSelf
+Jun 26, 2025 6:22:26 AM io.airlift.log.Logger info
+INFO: Java version: 17.0.15
+2025-06-26T06:22:26.459Z	INFO	main	io.airlift.log.Logging	Logging to stderr
+2025-06-26T06:22:26.459Z	INFO	main	Bootstrap	Loading configuration
+2025-06-26T06:22:26.605Z	INFO	main	org.hibernate.validator.internal.util.Version	HV000001: Hibernate Validator 8.0.0.Final
+2025-06-26T06:22:26.878Z	INFO	main	Bootstrap	Initializing logging
+2025-06-26T06:22:26.951Z	INFO	main	io.airlift.log.Logging	Logging to /home/hpstrikersid_0711/trino-server-421/data/var/log/server.log
+2025-06-26T06:22:26.994Z	INFO	main	io.airlift.log.Logging	Disabling stderr output
+# WARNING: Unable to get Instrumentation. Dynamic Attach failed. You may add this JAR as -javaagent manually, or supply -Djdk.attach.allowAttachSelf
+Jun 27, 2025 5:06:13 AM io.airlift.log.Logger info
+INFO: Java version: 17.0.15
+2025-06-27T05:06:13.109Z	INFO	main	io.airlift.log.Logging	Logging to stderr
+2025-06-27T05:06:13.110Z	INFO	main	Bootstrap	Loading configuration
+2025-06-27T05:06:13.257Z	INFO	main	org.hibernate.validator.internal.util.Version	HV000001: Hibernate Validator 8.0.0.Final
+2025-06-27T05:06:13.511Z	INFO	main	Bootstrap	Initializing logging
+2025-06-27T05:06:13.579Z	INFO	main	io.airlift.log.Logging	Logging to /home/hpstrikersid_0711/trino-server-421/data/var/log/server.log
+2025-06-27T05:06:13.625Z	INFO	main	io.airlift.log.Logging	Disabling stderr output
+# WARNING: Unable to get Instrumentation. Dynamic Attach failed. You may add this JAR as -javaagent manually, or supply -Djdk.attach.allowAttachSelf
+Jun 27, 2025 6:48:40 AM io.airlift.log.Logger info
+INFO: Java version: 17.0.15
+2025-06-27T06:48:40.748Z	INFO	main	io.airlift.log.Logging	Logging to stderr
+2025-06-27T06:48:40.749Z	INFO	main	Bootstrap	Loading configuration
+2025-06-27T06:48:40.896Z	INFO	main	org.hibernate.validator.internal.util.Version	HV000001: Hibernate Validator 8.0.0.Final
+2025-06-27T06:48:41.159Z	INFO	main	Bootstrap	Initializing logging
+2025-06-27T06:48:41.228Z	INFO	main	io.airlift.log.Logging	Logging to /home/hpstrikersid_0711/trino-server-421/data/var/log/server.log
+2025-06-27T06:48:41.270Z	INFO	main	io.airlift.log.Logging	Disabling stderr output
+# WARNING: Unable to get Instrumentation. Dynamic Attach failed. You may add this JAR as -javaagent manually, or supply -Djdk.attach.allowAttachSelf
+Jul 02, 2025 4:38:20 AM io.airlift.log.Logger info
+INFO: Java version: 17.0.15
+2025-07-02T04:38:21.077Z	INFO	main	io.airlift.log.Logging	Logging to stderr
+2025-07-02T04:38:21.078Z	INFO	main	Bootstrap	Loading configuration
+2025-07-02T04:38:21.269Z	INFO	main	org.hibernate.validator.internal.util.Version	HV000001: Hibernate Validator 8.0.0.Final
+2025-07-02T04:38:21.615Z	INFO	main	Bootstrap	Initializing logging
+2025-07-02T04:38:21.716Z	INFO	main	io.airlift.log.Logging	Logging to /home/hpstrikersid_0711/trino-server-421/data/var/log/server.log
+2025-07-02T04:38:21.774Z	INFO	main	io.airlift.log.Logging	Disabling stderr output
+# WARNING: Unable to get Instrumentation. Dynamic Attach failed. You may add this JAR as -javaagent manually, or supply -Djdk.attach.allowAttachSelf
+Jul 02, 2025 8:51:35 AM io.airlift.log.Logger info
+INFO: Java version: 17.0.15
+2025-07-02T08:51:35.738Z	INFO	main	io.airlift.log.Logging	Logging to stderr
+2025-07-02T08:51:35.739Z	INFO	main	Bootstrap	Loading configuration
+2025-07-02T08:51:35.835Z	INFO	main	org.hibernate.validator.internal.util.Version	HV000001: Hibernate Validator 8.0.0.Final
+2025-07-02T08:51:35.987Z	INFO	main	Bootstrap	Initializing logging
+2025-07-02T08:51:36.025Z	INFO	main	io.airlift.log.Logging	Logging to /home/hpstrikersid_0711/trino-server-421/data/var/log/server.log
+2025-07-02T08:51:36.054Z	INFO	main	io.airlift.log.Logging	Disabling stderr output
+# WARNING: Unable to get Instrumentation. Dynamic Attach failed. You may add this JAR as -javaagent manually, or supply -Djdk.attach.allowAttachSelf
+Jul 03, 2025 5:51:38 AM io.airlift.log.Logger info
+INFO: Java version: 17.0.15
+2025-07-03T05:51:38.369Z	INFO	main	io.airlift.log.Logging	Logging to stderr
+2025-07-03T05:51:38.369Z	INFO	main	Bootstrap	Loading configuration
+2025-07-03T05:51:38.508Z	INFO	main	org.hibernate.validator.internal.util.Version	HV000001: Hibernate Validator 8.0.0.Final
+2025-07-03T05:51:38.758Z	INFO	main	Bootstrap	Initializing logging
+2025-07-03T05:51:38.832Z	INFO	main	io.airlift.log.Logging	Logging to /home/hpstrikersid_0711/trino-server-421/data/var/log/server.log
+2025-07-03T05:51:38.882Z	INFO	main	io.airlift.log.Logging	Disabling stderr output
+# WARNING: Unable to get Instrumentation. Dynamic Attach failed. You may add this JAR as -javaagent manually, or supply -Djdk.attach.allowAttachSelf
+Jul 03, 2025 11:14:34 AM io.airlift.log.Logger info
+INFO: Java version: 17.0.15
+2025-07-03T11:14:34.398Z	INFO	main	io.airlift.log.Logging	Logging to stderr
+2025-07-03T11:14:34.398Z	INFO	main	Bootstrap	Loading configuration
+2025-07-03T11:14:34.480Z	INFO	main	org.hibernate.validator.internal.util.Version	HV000001: Hibernate Validator 8.0.0.Final
+2025-07-03T11:14:34.624Z	INFO	main	Bootstrap	Initializing logging
+2025-07-03T11:14:34.662Z	INFO	main	io.airlift.log.Logging	Logging to /home/hpstrikersid_0711/trino-server-421/data/var/log/server.log
+2025-07-03T11:14:34.693Z	INFO	main	io.airlift.log.Logging	Disabling stderr output
+# WARNING: Unable to get Instrumentation. Dynamic Attach failed. You may add this JAR as -javaagent manually, or supply -Djdk.attach.allowAttachSelf
+Jul 07, 2025 5:33:05 AM io.airlift.log.Logger info
+INFO: Java version: 17.0.15
+2025-07-07T05:33:05.892Z	INFO	main	io.airlift.log.Logging	Logging to stderr
+2025-07-07T05:33:05.893Z	INFO	main	Bootstrap	Loading configuration
+2025-07-07T05:33:06.036Z	INFO	main	org.hibernate.validator.internal.util.Version	HV000001: Hibernate Validator 8.0.0.Final
+2025-07-07T05:33:06.285Z	INFO	main	Bootstrap	Initializing logging
+2025-07-07T05:33:06.355Z	INFO	main	io.airlift.log.Logging	Logging to /home/hpstrikersid_0711/trino-server-421/data/var/log/server.log
+2025-07-07T05:33:06.400Z	INFO	main	io.airlift.log.Logging	Disabling stderr output
+# WARNING: Unable to get Instrumentation. Dynamic Attach failed. You may add this JAR as -javaagent manually, or supply -Djdk.attach.allowAttachSelf
+Jul 09, 2025 6:06:04 AM io.airlift.log.Logger info
+INFO: Java version: 17.0.15
+2025-07-09T06:06:04.954Z	INFO	main	io.airlift.log.Logging	Logging to stderr
+2025-07-09T06:06:04.954Z	INFO	main	Bootstrap	Loading configuration
+2025-07-09T06:06:05.096Z	INFO	main	org.hibernate.validator.internal.util.Version	HV000001: Hibernate Validator 8.0.0.Final
+2025-07-09T06:06:05.347Z	INFO	main	Bootstrap	Initializing logging
+2025-07-09T06:06:05.409Z	INFO	main	io.airlift.log.Logging	Logging to /home/hpstrikersid_0711/trino-server-421/data/var/log/server.log
+2025-07-09T06:06:05.456Z	INFO	main	io.airlift.log.Logging	Disabling stderr output
+# WARNING: Unable to get Instrumentation. Dynamic Attach failed. You may add this JAR as -javaagent manually, or supply -Djdk.attach.allowAttachSelf
+Jul 10, 2025 6:30:36 AM io.airlift.log.Logger info
+INFO: Java version: 17.0.15
+2025-07-10T06:30:36.661Z	INFO	main	io.airlift.log.Logging	Logging to stderr
+2025-07-10T06:30:36.661Z	INFO	main	Bootstrap	Loading configuration
+2025-07-10T06:30:36.814Z	INFO	main	org.hibernate.validator.internal.util.Version	HV000001: Hibernate Validator 8.0.0.Final
+2025-07-10T06:30:37.075Z	INFO	main	Bootstrap	Initializing logging
+2025-07-10T06:30:37.141Z	INFO	main	io.airlift.log.Logging	Logging to /home/hpstrikersid_0711/trino-server-421/data/var/log/server.log
+2025-07-10T06:30:37.189Z	INFO	main	io.airlift.log.Logging	Disabling stderr output
+# WARNING: Unable to get Instrumentation. Dynamic Attach failed. You may add this JAR as -javaagent manually, or supply -Djdk.attach.allowAttachSelf
+Jul 14, 2025 5:39:38 AM io.airlift.log.Logger info
+INFO: Java version: 17.0.15
+2025-07-14T05:39:38.677Z	INFO	main	io.airlift.log.Logging	Logging to stderr
+2025-07-14T05:39:38.678Z	INFO	main	Bootstrap	Loading configuration
+2025-07-14T05:39:38.815Z	INFO	main	org.hibernate.validator.internal.util.Version	HV000001: Hibernate Validator 8.0.0.Final
+2025-07-14T05:39:39.075Z	INFO	main	Bootstrap	Initializing logging
+2025-07-14T05:39:39.141Z	INFO	main	io.airlift.log.Logging	Logging to /home/hpstrikersid_0711/trino-server-421/data/var/log/server.log
+2025-07-14T05:39:39.189Z	INFO	main	io.airlift.log.Logging	Disabling stderr output
+# WARNING: Unable to get Instrumentation. Dynamic Attach failed. You may add this JAR as -javaagent manually, or supply -Djdk.attach.allowAttachSelf
+Jul 15, 2025 6:45:10 AM io.airlift.log.Logger info
+INFO: Java version: 17.0.15
+2025-07-15T06:45:10.755Z	INFO	main	io.airlift.log.Logging	Logging to stderr
+2025-07-15T06:45:10.756Z	INFO	main	Bootstrap	Loading configuration
+2025-07-15T06:45:10.902Z	INFO	main	org.hibernate.validator.internal.util.Version	HV000001: Hibernate Validator 8.0.0.Final
+2025-07-15T06:45:11.171Z	INFO	main	Bootstrap	Initializing logging
+2025-07-15T06:45:11.239Z	INFO	main	io.airlift.log.Logging	Logging to /home/hpstrikersid_0711/trino-server-421/data/var/log/server.log
+2025-07-15T06:45:11.289Z	INFO	main	io.airlift.log.Logging	Disabling stderr output
+# WARNING: Unable to get Instrumentation. Dynamic Attach failed. You may add this JAR as -javaagent manually, or supply -Djdk.attach.allowAttachSelf
+Jul 18, 2025 6:19:19 AM io.airlift.log.Logger info
+INFO: Java version: 17.0.15
+2025-07-18T06:19:19.727Z	INFO	main	io.airlift.log.Logging	Logging to stderr
+2025-07-18T06:19:19.728Z	INFO	main	Bootstrap	Loading configuration
+2025-07-18T06:19:19.881Z	INFO	main	org.hibernate.validator.internal.util.Version	HV000001: Hibernate Validator 8.0.0.Final
+2025-07-18T06:19:20.163Z	INFO	main	Bootstrap	Initializing logging
+2025-07-18T06:19:20.240Z	INFO	main	io.airlift.log.Logging	Logging to /home/hpstrikersid_0711/trino-server-421/data/var/log/server.log
+2025-07-18T06:19:20.303Z	INFO	main	io.airlift.log.Logging	Disabling stderr output
+# WARNING: Unable to get Instrumentation. Dynamic Attach failed. You may add this JAR as -javaagent manually, or supply -Djdk.attach.allowAttachSelf
+Jul 18, 2025 10:17:50 AM io.airlift.log.Logger info
+INFO: Java version: 17.0.15
+2025-07-18T10:17:50.397Z	INFO	main	io.airlift.log.Logging	Logging to stderr
+2025-07-18T10:17:50.397Z	INFO	main	Bootstrap	Loading configuration
+2025-07-18T10:17:50.482Z	INFO	main	org.hibernate.validator.internal.util.Version	HV000001: Hibernate Validator 8.0.0.Final
+2025-07-18T10:17:50.626Z	INFO	main	Bootstrap	Initializing logging
+2025-07-18T10:17:50.664Z	INFO	main	io.airlift.log.Logging	Logging to /home/hpstrikersid_0711/trino-server-421/data/var/log/server.log
+2025-07-18T10:17:50.695Z	INFO	main	io.airlift.log.Logging	Disabling stderr output
+# WARNING: Unable to get Instrumentation. Dynamic Attach failed. You may add this JAR as -javaagent manually, or supply -Djdk.attach.allowAttachSelf
+Jul 24, 2025 10:16:23 AM io.airlift.log.Logger info
+INFO: Java version: 17.0.15
+2025-07-24T10:16:23.153Z	INFO	main	io.airlift.log.Logging	Logging to stderr
+2025-07-24T10:16:23.154Z	INFO	main	Bootstrap	Loading configuration
+2025-07-24T10:16:23.288Z	INFO	main	org.hibernate.validator.internal.util.Version	HV000001: Hibernate Validator 8.0.0.Final
+2025-07-24T10:16:23.535Z	INFO	main	Bootstrap	Initializing logging
+2025-07-24T10:16:23.605Z	INFO	main	io.airlift.log.Logging	Logging to /home/hpstrikersid_0711/trino-server-421/data/var/log/server.log
+2025-07-24T10:16:23.662Z	INFO	main	io.airlift.log.Logging	Disabling stderr output
+# WARNING: Unable to get Instrumentation. Dynamic Attach failed. You may add this JAR as -javaagent manually, or supply -Djdk.attach.allowAttachSelf
+Jul 24, 2025 10:24:34 AM io.airlift.log.Logger info
+INFO: Java version: 17.0.15
+2025-07-24T10:24:34.635Z	INFO	main	io.airlift.log.Logging	Logging to stderr
+2025-07-24T10:24:34.636Z	INFO	main	Bootstrap	Loading configuration
+2025-07-24T10:24:34.761Z	INFO	main	org.hibernate.validator.internal.util.Version	HV000001: Hibernate Validator 8.0.0.Final
+2025-07-24T10:24:35.039Z	INFO	main	Bootstrap	Initializing logging
+2025-07-24T10:24:35.128Z	INFO	main	io.airlift.log.Logging	Logging to /home/hpstrikersid_0711/trino-server-421/data/var/log/server.log
+2025-07-24T10:24:35.171Z	INFO	main	io.airlift.log.Logging	Disabling stderr output
+# WARNING: Unable to get Instrumentation. Dynamic Attach failed. You may add this JAR as -javaagent manually, or supply -Djdk.attach.allowAttachSelf
+Jul 29, 2025 10:39:09 AM io.airlift.log.Logger info
+INFO: Java version: 17.0.15
+2025-07-29T10:39:09.142Z	INFO	main	io.airlift.log.Logging	Logging to stderr
+2025-07-29T10:39:09.142Z	INFO	main	Bootstrap	Loading configuration
+2025-07-29T10:39:09.282Z	INFO	main	org.hibernate.validator.internal.util.Version	HV000001: Hibernate Validator 8.0.0.Final
+2025-07-29T10:39:09.540Z	INFO	main	Bootstrap	Initializing logging
+2025-07-29T10:39:09.604Z	INFO	main	io.airlift.log.Logging	Logging to /home/hpstrikersid_0711/trino-server-421/data/var/log/server.log
+2025-07-29T10:39:09.653Z	INFO	main	io.airlift.log.Logging	Disabling stderr output
